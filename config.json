@@ -1,7 +1,7 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
+	"ip": "Strawhatt.aternos.me",
+	"port": "15080",
+	"version": "1.21.5",
 	"username": "NoNameBot",
 	"autonightskip": false,
 	"pi": 3.14159,
